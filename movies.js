@@ -5,7 +5,7 @@ let movies = [
     des:
       "Lorem ipsum dolor sit amet consectetur adipisicing elite Veniam      quos est quaerat maxime asperiores eius qui quasi sapiente",
 
-    image: "image/slider2.png"
+    image: "slider2.png"
   },
   {
     name: "Loki",
@@ -13,7 +13,7 @@ let movies = [
     des:
       "Lorem ipsum dolor sit amet consectetur adipisicing elite Veniam      quos est quaerat maxime asperiores eius qui quasi sapiente",
 
-    image: "image/slider1.png"
+    image: "slider1.png"
   },
   {
     name: "Wanda vision",
@@ -21,7 +21,7 @@ let movies = [
     des:
       "Lorem ipsum dolor sit amet consectetur adipisicing elite Veniam      quos est quaerat maxime asperiores eius qui quasi sapiente",
 
-    image: "image/slider3.png"
+    image: "slider3.png"
   },
   {
     name: "Raya and the last dragon",
@@ -29,7 +29,7 @@ let movies = [
     des:
       "Lorem ipsum dolor sit amet consectetur adipisicing elite Veniam      quos est quaerat maxime asperiores eius qui quasi sapiente",
 
-    image: "image/slider4.png"
+    image: "slider4.png"
   },
   {
     name: "Luca",
@@ -37,7 +37,7 @@ let movies = [
     des:
       "Lorem ipsum dolor sit amet consectetur adipisicing elite Veniam      quos est quaerat maxime asperiores eius qui quasi sapiente",
 
-    image: "image/slider5.png"
+    image: "slider5.png"
   }
 ];
 const carousel = document.querySelector(".carousel");
